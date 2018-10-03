@@ -1,0 +1,1 @@
+<nome_da_maquina> ansible_host=<Ip da Maquina> ansible_ssh_private_key_file=<caminho_da_pem> ansible_user=<usuario_ex:ec2-user>
